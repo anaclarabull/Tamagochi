@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sF0MnFBXVGAmakqCBVNsxyYHe6o/mPUHRV1GeR3LKmGNiCKAp1HyZ8X8xWt3yxJVJQNbkjn9mXyZ4PGAdZy0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aclar\\Eu\\Estudos\\Alura\\Tamagochi\\Tamagochi_Back\\Tamagochi_Back\\Tamagochi_Back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aclar\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\aclar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\aclar\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\aclar\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
